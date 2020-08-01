@@ -1,0 +1,17 @@
+Task 1: Setup a Java project for automation scripts
+By the end of this task, you will be able to create a new java project in the Eclipse IDE and can configure it to run it with Selenium and TestNG
+
+Task 2: Run your first automation script on Chrome Browser
+By the end of this task, you will be able to invoke the Chrome browser, navigate to a URL, maximize the browser window, get the title of the page, and close the browser.
+
+Task 3: Writing your first Test Case using TestNG
+By the end of this task, you will be able to write a test case using TestNG library file
+
+Task 4: Interacting With Elements of Web Application
+By the end of this task, you will be familiar with the locating techniques provided by Selenium and will be able to interact with elements of a web application like a text box and buttons
+
+Task 5: Interacting with Web Elements like radio button and Links
+By the end of this task, you will be able to interact with elements of a web application like a radio button and links
+
+Task 6: Interacting with web tables on a web application
+By the end of this task, you will be able to interact with web tables of web application
